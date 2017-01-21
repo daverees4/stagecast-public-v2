@@ -1,0 +1,21 @@
+p {
+  font-family: 'Hind', sans-serif;
+  text-align: justify;
+  font-size: 1.2rem;
+}
+
+p.say-hello {
+  text-align: center;
+}
+
+a {
+  color: #3399CC;
+}
+
+img {
+  width: 100%;
+}
+
+#header p {
+  text-align: center;
+}
